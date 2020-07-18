@@ -22,7 +22,7 @@ setup(
         'greenlet==0.4.2',
         'itsdangerous==0.24',
         'wsgiref==0.1.2',
-        'gunicorn==19.0',
+        'gunicorn==19.5.0',
         'ujson==1.33'
     ],
     classifiers = [
